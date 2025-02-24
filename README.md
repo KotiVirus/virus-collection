@@ -1,5 +1,5 @@
 EN
-Warning: This archive does not contain safety versions of viruses. Please test them i a virtual machine.
+Warning: This archive does not contain safety versions of viruses. Please test them in a virtual machine.
 RU
 Предупреждение: В этом архиве нету безопасных версий вирусов. Пожалуйста, тестируйте их на виртуальной машине
 UA
